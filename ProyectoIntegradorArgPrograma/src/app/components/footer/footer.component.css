@@ -1,0 +1,10 @@
+.row{
+    background: rgb(140, 175, 207);
+
+}
+footer{
+    color: #ffffff;
+    display: flex;
+    margin-left: 35%;
+    margin-top: 0.5em;
+}

@@ -1,0 +1,10 @@
+.cards-wrapper{
+    display: flex;
+    padding: 6em;
+}
+
+.card{
+    margin: 2em;
+    width: calc(100%/3);
+    position: relative;
+}
